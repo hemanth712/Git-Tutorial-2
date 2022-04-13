@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//  Version 2
+//  Version 3
 void main() {
 	enum WeekDay[] = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
 	cout << "WeekDays" << endl<<WeekDay;
