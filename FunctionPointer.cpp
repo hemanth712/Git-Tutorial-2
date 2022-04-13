@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Version 1
+// Version 2
 
 void func() {
 	cout << "Inside func()" << endl;
